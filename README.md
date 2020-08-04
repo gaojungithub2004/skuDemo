@@ -1,2 +1,2 @@
 # skuDemo
-商品sky 筛选记录
+商品sku 筛选记录
